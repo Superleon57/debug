@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Basiques",
+    "colors": [
+      { "id": "616cd7abfb29de85a8c28dd2", "name": "Noir", "value": "#000000" },
+      { "id": "616cd7abfb29de85a8c28dd3", "name": "Blanc", "value": "#ffffff" },
+      { "id": "616cd7abfb29de85a8c28dd4", "name": "Gris", "value": "#808080" },
+      { "id": "616cd7abfb29de85a8c28dd5", "name": "Rouge", "value": "#ff0000" },
+      { "id": "616cd7abfb29de85a8c28dd6", "name": "Vert", "value": "#008000" },
+      { "id": "616cd7abfb29de85a8c28dd7", "name": "Bleu", "value": "#0000ff" },
+      { "id": "616cd7abfb29de85a8c28dd8", "name": "Jaune", "value": "#ffff00" },
+      { "id": "616cd7abfb29de85a8c28dd9", "name": "Magenta", "value": "#ff00ff" },
+      { "id": "616cd7abfb29de85a8c28dda", "name": "Cyan", "value": "#00ffff" },
+      { "id": "616cd7abfb29de85a8c28ddb", "name": "Orange", "value": "#ffa500" },
+      { "id": "616cd7abfb29de85a8c28ddc", "name": "Rose", "value": "#ffc0cb" },
+      { "id": "616cd7abfb29de85a8c28ddd", "name": "Violet", "value": "#800080" },
+      { "id": "616cd7abfb29de85a8c28dde", "name": "Marron", "value": "#a52a2a" }
+    ]
+  }
+]

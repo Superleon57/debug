@@ -1,0 +1,12 @@
+.productImage {
+  width: 50px;
+}
+
+.container {
+  box-shadow: none;
+}
+
+.SelectedProductRow td, .SelectedProductRow th {
+  border: none;
+  background: #f4f7f9;
+}

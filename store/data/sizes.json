@@ -1,0 +1,174 @@
+[
+  {
+    "name": "Bébé",
+
+    "sizes": [
+      {
+        "id": "4312bd4c-6551-4684-92dd-c1cc10368fc7",
+        "name": "1 mois",
+        "value": "1m"
+      },
+      {
+        "id": "2e4805b0-21fd-4a4c-900f-6c25197bc66c",
+        "name": "3 mois",
+        "value": "3m"
+      },
+      {
+        "id": "f39f2702-54d7-43fb-bae2-6e3518fc0bf9",
+        "name": "6 mois",
+        "value": "6m"
+      },
+      {
+        "id": "2000d589-9e01-401b-b452-28b7b9cf7be3",
+        "name": "9 mois",
+        "value": "9m"
+      },
+      {
+        "id": "ba382c3d-9527-4047-88e1-bcd0e5732bfb",
+        "name": "12 mois",
+        "value": "12m"
+      },
+      {
+        "id": "e1513a0b-f7a9-4300-b323-9c4ed0380677",
+        "name": "18 mois",
+        "value": "18m"
+      },
+      {
+        "id": "4be08e92-e433-4e94-ba4f-8f997a9bad16",
+        "name": "24 mois",
+        "value": "24m"
+      }
+    ]
+  },
+  {
+    "name": "Enfants",
+
+    "sizes": [
+      {
+        "id": "8e0b8e75-7e91-47e4-877f-20efbedb4ee0",
+        "name": "2 ans",
+        "value": "2y"
+      },
+      {
+        "id": "e6828517-73be-4e47-8109-df40c8a60f67",
+        "name": "3 ans",
+        "value": "3y"
+      },
+      {
+        "id": "88a8e7e7-0546-412d-8d4b-3afd4e8b6441",
+        "name": "4 ans",
+        "value": "4y"
+      },
+      {
+        "id": "e36d6e5a-9383-4a64-a251-3ee4405ebedc",
+        "name": "5 ans",
+        "value": "5y"
+      },
+      {
+        "id": "cceba111-d9d0-4d56-95dd-88184bf92ba0",
+        "name": "6 ans",
+        "value": "6y"
+      },
+      {
+        "id": "8396795b-6965-4981-ac1c-151fe7a24633",
+        "name": "8 ans",
+        "value": "8y"
+      },
+      {
+        "id": "d7736f87-8b58-4054-abb7-84237d2567e8",
+        "name": "10 ans",
+        "value": "10y"
+      },
+      {
+        "id": "1e09a29a-8fa3-4247-bd0f-15a45eec1ea8",
+        "name": "12 ans",
+        "value": "12y"
+      },
+      {
+        "id": "ecef6555-8983-472b-8ddc-53083815d8dc",
+        "name": "14 ans",
+        "value": "14y"
+      },
+      {
+        "id": "392db1ff-fc0d-4200-8b2c-b210ef0b13ba",
+        "name": "16 ans",
+        "value": "16y"
+      }
+    ]
+  },
+  {
+    "name": "Adultes",
+    "sizes": [
+      {
+        "id": "3eb32efd-f351-430c-9efe-db95ac810ff0",
+        "name": "XS",
+        "value": "XS"
+      },
+      {
+        "id": "01d32fc9-0267-4fc2-b55e-ec741fba82f5",
+        "name": "S",
+        "value": "S"
+      },
+      {
+        "id": "7d5367b8-9693-4042-982d-5fcb7c35906b",
+        "name": "M",
+        "value": "M"
+      },
+      {
+        "id": "fab36ab4-37cb-4b8d-a766-b6e785272d42",
+        "name": "L",
+        "value": "L"
+      },
+      {
+        "id": "bc0fd49e-9763-445e-878a-6b3957f558a0",
+        "name": "XL",
+        "value": "XL"
+      },
+      {
+        "id": "7276b79d-3a9c-4cd4-bf21-2b79f407e00f",
+        "name": "XXL",
+        "value": "XXL"
+      },
+      {
+        "id": "1eeeb97f-d469-4a8d-aa22-6f80620279b8",
+        "name": "3XL",
+        "value": "3XL"
+      },
+      {
+        "id": "9144252b-0b69-4660-aa06-1a6576223682",
+        "name": "4XL",
+        "value": "4XL"
+      },
+      {
+        "id": "45a34b94-194c-4c63-bc3a-ad991ba0e328",
+        "name": "5XL",
+        "value": "5XL"
+      },
+      {
+        "id": "af912310-c046-4388-9a5b-f74561b1e9c9",
+        "name": "6XL",
+        "value": "6XL"
+      },
+      {
+        "id": "df42ccdd-e741-4a0e-abe3-ea9e40f575db",
+        "name": "7XL",
+        "value": "7XL"
+      },
+      {
+        "id": "326c4bd4-1482-4ff7-8d79-67f9bbd19d6f",
+        "name": "8XL",
+        "value": "8XL"
+      },
+      {
+        "id": "96947819-f521-425e-99c6-52c09d69dc42",
+        "name": "9XL",
+        "value": "9XL"
+      },
+      {
+        "id": "97d2ae39-7e8b-4c47-ad4a-51b32c9f7029",
+        "name": "10XL",
+        "value": "10XL"
+      }
+    ]
+  }
+]
