@@ -1,0 +1,25 @@
+.appBar {
+  margin: 20px 0 !important;
+  background: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+.text {
+  font-size: 45px !important;
+  font-weight: bold !important;
+  color: #04a2ae !important;
+}
+
+.text::after {
+  position: absolute;
+  content: " ";
+  display: block;
+  border-bottom: 2px solid #04a2ae;
+  width: 30%;
+}
+
+.icon {
+  color: #04a2ae !important;
+
+}

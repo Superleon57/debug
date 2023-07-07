@@ -1,0 +1,25 @@
+.tabRoot {
+  // background: #e91e6326;
+  // border-radius: 10px;
+  // width: 140px;
+}
+
+.roundedIndicator {
+  // display: none;
+  height: 100%;
+  border-radius: 10px;
+  background: #e91e6326;
+  // &::after {
+  //   content: "";
+  //   position: absolute;
+  //   transform: translateX(-50%) translateY(-50%);
+  //   top: 50%;
+  //   width: 10px;
+  //   height: 10px;
+  //   border-style: solid;
+  //   border-width: 5px;
+  //   border-color: #e91e62;
+  //   border-radius: 50%;
+  //   margin: 0 10px;
+  // }
+}
