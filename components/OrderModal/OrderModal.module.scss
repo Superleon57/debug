@@ -1,0 +1,22 @@
+.modal {
+  padding: 18px;
+  background-color: #fff;
+  overflow: auto;
+  height: 100%;
+}
+.productImage {
+  border-radius: 10px;
+  width: 60px;
+}
+
+@media (min-width: $breakpoint-sm) {
+  .modal {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    box-shadow: 24px 24px 48px rgba(0, 0, 0, 0.2);
+    padding: 24px;
+    border-radius: 10px;
+  }
+}

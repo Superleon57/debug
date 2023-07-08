@@ -1,0 +1,35 @@
+$fontFamily: "Helvetica";
+
+.shopTitle {
+  font-family: $fontFamily;
+  letter-spacing: 0.3rem;
+  margin: 10px 0;
+  font-size: 3rem;
+}
+
+.shopLocation {
+  font-family: $fontFamily;
+  margin: 5px 0;
+  .locationIcon {
+    font-size: 20px;
+  }
+}
+
+.ordersCountText {
+  font-family: $fontFamily;
+  margin: 10px 0 0 0;
+  font-size: 1.5rem;
+}
+
+.ordersCount {
+  font-family: $fontFamily;
+  text-align: center;
+  font-size: 2rem;
+}
+
+.container {
+  background: whitesmoke !important;
+  height: 100%;
+  position: relative;
+  align-items: center;
+}

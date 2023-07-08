@@ -1,0 +1,41 @@
+.priceChip {
+  width: 50px;
+  background: #ffd1aa !important;
+}
+
+.chipContainer {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+@keyframes anim-glow {
+  0% {
+    box-shadow: 0 0 rgba(#e44e53, 1);
+  }
+
+  100% {
+    box-shadow: 0 0 10px 8px transparent;
+    border-width: 6px;
+  }
+}
+
+.circle {
+  border-radius: 50%;
+  background-color: #e44e53;
+  width: 25px;
+  height: 25px;
+  text-align: center;
+  position: relative;
+  animation: anim-glow 2s ease infinite;
+
+  i {
+    border-radius: 50%;
+    border: 6px solid #e44e53;
+    width: 6px;
+    height: 6px;
+    display: inline-block;
+    vertical-align: 0px;
+  }
+}

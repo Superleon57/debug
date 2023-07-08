@@ -1,0 +1,23 @@
+.colorPicker {
+  display: block;
+  button {
+    // border: 1px solid #000;
+    width: 40px;
+    height: 40px;
+    border-radius: 8px;
+    box-shadow: 1px 1px 5px 0 rgb(0 0 0);
+  }
+  input {
+    display: none;
+  }
+  fieldset {
+    display: none;
+  }
+}
+
+.productImage {
+  height: 80px;
+  max-width: 50px;
+  object-fit: cover;
+  border: solid 1px midnightblue;
+}

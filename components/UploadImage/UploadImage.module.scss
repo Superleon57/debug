@@ -1,0 +1,77 @@
+.categoryImage {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.ImageContainer {
+  display: flex;
+  position: relative;
+  width: 400px;
+  border-radius: 10px;
+  font-size: 1.25rem;
+  outline: 3px dashed #00c50f;
+}
+
+.hoverBox {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  transition: opacity 0.3s ease;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.Container {
+  background: #ffffff;
+  border: 1px solid #e5e5e5;
+  padding: 10px;
+}
+
+.Item {
+  position: relative;
+}
+
+.DeleteButton {
+  margin-right: "10px";
+  color: #fff;
+}
+
+.inputLabel {
+  font-family: "Noto Sans" !important;
+  font-style: normal !important;
+  font-weight: 600 !important;
+  font-size: 12px !important;
+  line-height: 18px !important;
+  margin: 15px 0 5px 0 !important;
+  color: #666666;
+}
+
+.selectImageText {
+  &:hover {
+    cursor: pointer;
+    color: #5b8489;
+  }
+}
+
+.UploadBox {
+  width: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+  padding: 70px 20px;
+  border-radius: 10px;
+  border: 1px #e5e5e5;
+  outline: 2px dashed #92b0b3;
+}
+
+.UploadIcon {
+  font-size: 80px;
+  color: #92b0b3;
+}

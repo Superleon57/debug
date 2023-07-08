@@ -1,0 +1,42 @@
+.sideBar {
+  background: #ffffff;
+  border: none !important;
+  overflow: hidden;
+  height: 100%;
+}
+.image {
+  width: 100%;
+  opacity: 0.5;
+  object-fit: cover;
+  height: 60%;
+}
+
+.LinkList {
+  // margin: 0;
+  // padding: 0;
+  // list-style: none;
+  // display: flex;
+  // flex-direction: column;
+  // justify-content: center;
+  // align-items: center;
+  // height: 40%;
+  border-right: solid 2px #04a2ae;
+}
+
+.ListItemLink {
+  // border-right: solid 2px #04a2ae;
+}
+
+.accordionSummary {
+  &:hover {
+    background-color: rgba(0, 0, 0, 0.04);
+  }
+}
+
+.link,
+.accordionButton {
+  color: #ff4b4b;
+  font-size: 14px;
+  margin: 10px 0 10px 50px !important;
+  text-decoration: none;
+}

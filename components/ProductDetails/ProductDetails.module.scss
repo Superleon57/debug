@@ -1,0 +1,44 @@
+.productDetails {
+  padding: 50px;
+  background: #f4f7f9;
+  height: 100%;
+}
+
+.input {
+  width: 100%;
+}
+
+.input div {
+  border-radius: 10px !important;
+}
+
+.input div input {
+  background: #ffffff;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.inputLabel {
+  font-family: "Noto Sans" !important;
+  font-style: normal !important;
+  font-weight: 600 !important;
+  font-size: 12px !important;
+  line-height: 18px !important;
+  margin-top: 15px !important;
+  color: #666666;
+}
+
+.modal {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 850px;
+  box-shadow: 24px;
+  padding: 30px;
+  background: #ffffff;
+  border-radius: 10px;
+
+  @media (max-width: 960px) {
+    width: 100vw;
+  }
+}
