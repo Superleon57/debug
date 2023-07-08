@@ -1,0 +1,14 @@
+$DRAWER_WIDTH: 300px;
+
+.mainContainer {
+  height: 100vh;
+  width: calc(100% - $DRAWER_WIDTH);
+  padding-top: 24px;
+  padding-left: 24px;
+  margin-top: 40px;
+  flex-grow: 1;
+}
+
+.drawer {
+  border: none !important;
+}
